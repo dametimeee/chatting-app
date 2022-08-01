@@ -1,4 +1,4 @@
-@keyframes notificationAnimation {
+/* @keyframes notificationAnimation {
   0% {
     transform: none;
   }
@@ -9,6 +9,7 @@
     transform: none;
   }
 }
+*/
 
 .badge {
   background-color: tomato;

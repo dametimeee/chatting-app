@@ -20,7 +20,7 @@
   position: relative;
 }
 
-@keyframes rotateCog {
+/*@keyframes rotateCog {
   from {
     transform: none;
   }
@@ -28,7 +28,7 @@
     transform: rotateZ(360deg);
   }
 }
-
+*/
 .screen-header__icons .fa-gear:hover {
   animation: rotateCog 1.5s linear infinite;
 }
